@@ -1,0 +1,5 @@
+data/
+intervals/
+models/distilbart-cnn-12-6/
+news_processing/news_summarizer/supabase_credentials.txt
+news_processing/news_evaluation/summarize_news.db
