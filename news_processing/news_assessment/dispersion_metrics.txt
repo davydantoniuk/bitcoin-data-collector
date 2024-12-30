@@ -1,0 +1,44 @@
+Dispersion Metrics (Variance and Standard Deviation):
+
+Variance by Model and Sentiment:
+  cryptobert:
+    Positive: 0.0398
+    Neutral: 0.0380
+    Negative: 0.0186
+
+  distilroberta_ffnsa:
+    Positive: 0.2249
+    Neutral: 0.2081
+    Negative: 0.1720
+
+  finbert:
+    Positive: 0.0959
+    Neutral: 0.1268
+    Negative: 0.1506
+
+  finbert_tone:
+    Positive: 0.1679
+    Neutral: 0.2130
+    Negative: 0.1585
+
+Std_dev by Model and Sentiment:
+  cryptobert:
+    Positive: 0.1995
+    Neutral: 0.1948
+    Negative: 0.1363
+
+  distilroberta_ffnsa:
+    Positive: 0.4742
+    Neutral: 0.4562
+    Negative: 0.4148
+
+  finbert:
+    Positive: 0.3097
+    Neutral: 0.3562
+    Negative: 0.3881
+
+  finbert_tone:
+    Positive: 0.4097
+    Neutral: 0.4615
+    Negative: 0.3981
+
