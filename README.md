@@ -1,4 +1,4 @@
-# Bitcoin Price and Crypto News Analysis
+# Bitcoin Price and Crypto News Database
 
 This project combines Bitcoin price data and news from various crypto websites to create a comprehensive database for analysis. The main goals are to summarize news articles, perform sentiment analysis, and explore correlations between Bitcoin prices and crypto news sentiments.
 
